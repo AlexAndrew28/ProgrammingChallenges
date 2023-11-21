@@ -47,8 +47,8 @@ Values correct as of: 20/11/2023
 
 """
 
-
 number_lines = int(input())
+
 mapping = {
     "four": "4",
     "Four": "4",
