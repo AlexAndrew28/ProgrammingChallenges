@@ -1,7 +1,7 @@
 """
 --PROBLEM DETAILS--
 
-3. Wildcard Matching
+44. Wildcard Matching
 
 Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*' where:
 
