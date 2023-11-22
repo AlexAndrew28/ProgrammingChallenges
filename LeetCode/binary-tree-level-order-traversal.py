@@ -13,7 +13,7 @@ Example:
 Input: root = [3,9,20,null,null,15,7]
 Output: [[3],[9,20],[15,7]]
 
-Acceptance rate: %
+Acceptance rate: 66.1%
 Difficulty: Medium
 
 --SUBMISSION DETAILS--
