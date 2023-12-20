@@ -74,3 +74,8 @@ int totalMoneyImproved(int n){
     return total;
 }
 
+int main () {
+    int total = totalMoneyImproved(6);
+
+    printf("%i", total);
+}
