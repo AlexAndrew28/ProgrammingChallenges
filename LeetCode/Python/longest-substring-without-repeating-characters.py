@@ -16,7 +16,7 @@ Difficulty: Medium
 --SUBMISSION DETAILS--
 
 Status: Accepted
-Langauge: Python
+Language: Python
 Runtime: 54ms (Beats 85.14%)
 Memory: 16.4MB (Beats 16.92%)
 
@@ -27,7 +27,7 @@ Values correct as of: 20/11/2023
 class Solution:
     def lengthOfLongestSubstring(self, input_string: str) -> int:
         """ Uses a dictionary to keep track of the index of each unique characters and iterates through the string finding the longest
-        gap between occurances of the same character
+        gap between occurrences of the same character
 
         Args:
             input_string (str): The string to find the longest substring with no repeating characters within 

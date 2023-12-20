@@ -39,7 +39,7 @@ Difficulty: 4.7
 --SUBMISSION DETAILS--
 
 Status: Accepted
-Langauge: Python
+Language: Python
 Runtime: 0.06 seconds
 
 

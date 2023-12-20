@@ -22,7 +22,7 @@ Difficulty: Easy
 --SUBMISSION DETAILS--
 
 Status: Accepted
-Langauge: C
+Language: C
 Runtime: 2ms (Beats 22.78%)
 Memory: 6.22MB (Beats 61.19%)
 

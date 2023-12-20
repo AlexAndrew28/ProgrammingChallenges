@@ -21,7 +21,7 @@ Difficulty: Hard
 --SUBMISSION DETAILS--
 
 Status: Accepted
-Langauge: Python
+Language: Python
 Runtime: 50ms (Beats 95.36%)
 Memory: 16.19MB (Beats 97.53%)
 
